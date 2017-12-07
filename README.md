@@ -1,0 +1,2 @@
+# drinks
+sprite clear hain
